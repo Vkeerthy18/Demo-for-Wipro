@@ -1,0 +1,5 @@
+Flipkart Scenario
+Login
+Search
+Select
+Add to cart
